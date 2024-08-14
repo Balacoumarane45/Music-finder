@@ -1,4 +1,4 @@
-Music Finder Website
+# Music Finder Website
 This is a web application that allows users to search for their favorite music, find information about artists, albums, and tracks, and listen to snippets of songs.
 
 Features
